@@ -180,7 +180,7 @@ export default function handler(req, res) {
 
   <!-- Feature cards -->
   <rect x="60" y="345" width="250" height="80" rx="8" fill="#111" stroke="#222" stroke-width="1"/>
-  <text x="80" y="375" font-family="system-ui, sans-serif" font-size="16" fill="${levelColor}" font-weight="700">Instability Index</text>
+  <text x="80" y="375" font-family="system-ui, sans-serif" font-size="16" fill="${levelColor}" font-weight="700">مؤشر عدم الاستقرار</text>
   <text x="80" y="400" font-family="system-ui, sans-serif" font-size="13" fill="#888">20 countries monitored</text>
 
   <rect x="330" y="345" width="250" height="80" rx="8" fill="#111" stroke="#222" stroke-width="1"/>

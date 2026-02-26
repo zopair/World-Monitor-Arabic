@@ -45,7 +45,7 @@ const GEO_HUBS: GeoHubLocation[] = [
   { id: 'cairo', name: 'Cairo', region: 'Middle East', country: 'Egypt', lat: 30.0444, lon: 31.2357, type: 'capital', tier: 'major', keywords: ['cairo', 'egypt', 'egyptian', 'sisi'] },
   { id: 'islamabad', name: 'Islamabad', region: 'Asia', country: 'Pakistan', lat: 33.6844, lon: 73.0479, type: 'capital', tier: 'major', keywords: ['islamabad', 'pakistan', 'pakistani'] },
 
-  // Conflict Zones
+  // مناطق الصراع النشطة
   { id: 'gaza', name: 'Gaza', region: 'Middle East', country: 'Palestine', lat: 31.5, lon: 34.47, type: 'conflict', tier: 'critical', keywords: ['gaza', 'hamas', 'palestinian', 'rafah', 'khan younis', 'gaza strip'] },
   { id: 'westbank', name: 'West Bank', region: 'Middle East', country: 'Palestine', lat: 31.9, lon: 35.2, type: 'conflict', tier: 'major', keywords: ['west bank', 'ramallah', 'jenin', 'nablus', 'hebron'] },
   { id: 'ukraine-front', name: 'Ukraine Front', region: 'Europe', country: 'Ukraine', lat: 48.5, lon: 37.5, type: 'conflict', tier: 'critical', keywords: ['donbas', 'donbass', 'donetsk', 'luhansk', 'kharkiv', 'bakhmut', 'avdiivka', 'zaporizhzhia', 'kherson', 'crimea'] },

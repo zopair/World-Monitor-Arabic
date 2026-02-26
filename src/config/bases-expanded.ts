@@ -1,4 +1,4 @@
-// Generated from Overseas Military Bases.xlsx
+// Generated from Overseas القواعد العسكرية.xlsx
 // Source: Asian Religious Connections (ASIAR), HKU - Last updated: Nov 2020
 // Updated with 2024-25 status changes where known
 //
